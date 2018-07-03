@@ -1,4 +1,4 @@
 FROM nginx
-#file author
-MAINTAINER tencentcloudccs
+#fil
+MAINTAINER haha
 ADD ./ /usr/share/nginx/html

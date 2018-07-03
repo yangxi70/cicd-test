@@ -1,4 +1,4 @@
 FROM nginx
 #fil
-MAINTAINER haha
+MAINTAINER second
 ADD ./ /usr/share/nginx/html
